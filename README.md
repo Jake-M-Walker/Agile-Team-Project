@@ -21,7 +21,7 @@ A user will need to be able to reply to other peoples comments.
 4 Add User Account Creation (3) Jake
 5 Add Ability View Movies and Rating (3) Corey
 6 Add Ability to Sort Movies by Genre (4) Corey
-7 Add Ability to Sort Movies by Rating (4)
+7 Add Ability to Sort Movies by Rating (4) Corey
 8 Add Ability to Sort Movies by Media Type (4)
 9 Add Search Feature for Individual Movie (5)
 10 Add Search Functionality for Genre (5)
