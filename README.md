@@ -15,7 +15,7 @@ A user will need to be able to reply to other peoples comments.
 
 ##Tickets and Difficulty
 
-1 Add Rating Functionality (3)
+1 Add Rating Functionality (3) Jake
 2 Add Movie Functionality (3)
 3 Add Comment Functionality (5)
 4 Add User Account Creation (3)
