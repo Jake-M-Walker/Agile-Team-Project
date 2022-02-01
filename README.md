@@ -15,21 +15,22 @@ A user will need to be able to reply to other peoples comments.
 
 ##Tickets and Difficulty
 
-Add Rating data layer (1)
-Add Rating services layer (1)
-Add Rating models layer (1)
-Add Movie data layer (1)
-Add Movie services layer (1)
-Add Movie models layer (1)
-Add Comment data layer (1)
-Add Comment services layer (1)
-Add Comment models layer (1)
-Add Comment Controller (1)
-Add Movie Controller (1)
-Add Rating Controller (1)
+1 Add Rating Functionality (3)
+2 Add Movie Functionality (3)
+3 Add Comment Functionality (5)
+4 Add User Account Creation (3)
+5 Add Ability View Movies and Rating (3)
+6 Add Ability to Sort Movies by Genre (4)
+7 Add Ability to Sort Movies by Rating (4)
+8 Add Ability to Sort Movies by Media Type (4)
+9 Add Search Feature for Individual Movie (5)
+10 Add Search Functionality for Genre (5)
+11 Add Search Functionality for Media Type (5)
+12 Add Search Functionality for Rating (5)
 
 ##Sprint Plan
-[Notion Link](https://enchanted-waltz-a16.notion.site/Agile-Planning-d049093971cb493b9f0059aaf81fc852
+[Notion Link](https://enchanted-waltz-a16.notion.site/583d7d71eb594ffa818791a022e94d13?v=937d66d7276c4cfabcc4aa2a66bf3f7b
+
 )
 
 ##Stretch Goals
