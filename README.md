@@ -26,7 +26,7 @@ A user will need to be able to reply to other peoples comments.
 9 Add Search Feature for Individual Movie (5) Marleny
 10 Add Search Functionality for Genre (5) Marleny
 11 Add Search Functionality for Media Type (5) Marleny
-12 Add Search Functionality for Rating (5)
+12 Add Search Functionality for Rating (5) Marleny
 
 ##Sprint Plan
 [Notion Link](https://enchanted-waltz-a16.notion.site/583d7d71eb594ffa818791a022e94d13?v=937d66d7276c4cfabcc4aa2a66bf3f7b
